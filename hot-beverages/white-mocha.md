@@ -27,11 +27,7 @@
 
 ### Step 4
 
-<<<<<<< HEAD
-- Froth whole milk using your preferred method.
-=======
 - Froth almond milk using your preferred method.
->>>>>>> Update-mocha
 
 ### Step 5
 
