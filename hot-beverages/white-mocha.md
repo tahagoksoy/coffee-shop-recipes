@@ -23,7 +23,7 @@
 
 ### Step 3
 
-- Stir hot espresso and softened white chocolate together.
+- Stir hot espresso and softened white chocolate together..
 
 ### Step 4
 
