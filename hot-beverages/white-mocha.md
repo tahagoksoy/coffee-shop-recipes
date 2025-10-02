@@ -36,3 +36,18 @@
 ### Step 6
 
 - Top with whipped cream.
+
+
+- [ ]
+
+
+
+| Column1 | Column2 | Column3|
+|---------|---------|--------|
+| Test1   | Test2   | Test 3 |
+
+`ipconfig`
+
+```
+Get-aduser
+```
