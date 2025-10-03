@@ -38,9 +38,6 @@
 - Top with whipped cream.
 
 
-- [ ]
-
-
 
 | Column1 | Column2 | Column3|
 |---------|---------|--------|
